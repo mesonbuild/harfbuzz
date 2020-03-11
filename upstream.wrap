@@ -1,0 +1,6 @@
+[wrap-file]
+directory = harfbuzz-2.6.4
+
+source_url = https://github.com/harfbuzz/harfbuzz/archive/2.6.4.tar.gz
+source_filename = 2.6.4.tar.gz
+source_hash = 8745f0a6e3f233e961fdfec6882a9b03171603eb60ec9169fe8ba58f288fc5fd
